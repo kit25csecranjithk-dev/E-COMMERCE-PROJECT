@@ -1,0 +1,6 @@
+{
+  "name": "SmartPick AI - E-Commerce Product Recommendation System",
+  "description": "Smart AI-powered product recommendation and comparison platform analyzing ratings, sentiment, specifications, and prices across Amazon and Flipkart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
